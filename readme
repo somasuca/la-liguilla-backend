@@ -1,0 +1,5 @@
+Para ejecutarlo el comando es 
+-py manage.py runserver
+
+Para crear los "features/aplicaciones" es con el comando
+-py manage.py startapp nombre
